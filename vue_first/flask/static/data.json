@@ -1,0 +1,523 @@
+{ "iOS":
+[
+    {
+        "name": "iPad mini",
+        "size": 7.9,
+        "resolution": "1024*768",
+        "RAM": "512MB",
+        "CPU": "Apple A5",
+        "model": "iPad2,7",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad mini 2",
+        "size": 7.9,
+        "resolution": "2048*1536",
+        "RAM": "1GB",
+        "CPU": "Apple A7",
+        "model": "iPad4,4",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad 3",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "1GB",
+        "CPU": "Apple A5X",
+        "model": "iPad3,1",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad 4",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "1GB",
+        "CPU": "Apple A6X",
+        "model": "iPad3,4",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad Air",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "1GB",
+        "CPU": "Apple A7",
+        "model": "iPad4,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 4s",
+        "size": 3.5,
+        "resolution": "960*640",
+        "RAM": "512MB",
+        "CPU": "Apple A5",
+        "model": "iPhone4,1",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 4",
+        "size": 3.5,
+        "resolution": "960*640",
+        "RAM": "512MB",
+        "CPU": "Apple A4",
+        "model": "iPhone3,1",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 5c",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "1GB",
+        "CPU": "Apple A6",
+        "model": "iPhone5,4",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 5s",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "1GB",
+        "CPU": "Apple A7",
+        "model": "iPhone6,2",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 5",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "1GB",
+        "CPU": "Apple A6",
+        "model": "iPhone5,2",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 6",
+        "size": 4.7,
+        "resolution": "1334*750",
+        "RAM": "1GB",
+        "CPU": "Apple A8",
+        "model": "iPhone7,2",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad Air 2",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "2GB",
+        "CPU": "Apple A8X",
+        "model": "iPad5,3",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 6 Plus",
+        "size": 5.5,
+        "resolution": "1920*1080",
+        "RAM": "1GB",
+        "CPU": "Apple A8",
+        "model": "iPhone7,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad mini 3",
+        "size": 7.9,
+        "resolution": "2048*1536",
+        "RAM": "1GB",
+        "CPU": "Apple A7",
+        "model": "iPad4,7",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPod touch 5",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "512MB",
+        "CPU": "Apple A5",
+        "model": "iPod5,1",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad 2",
+        "size": 9.7,
+        "resolution": "1024*768",
+        "RAM": "512MB",
+        "CPU": "Apple A5",
+        "model": "iPad2,4",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 6s",
+        "size": 4.7,
+        "resolution": "1334*750",
+        "RAM": "2GB",
+        "CPU": "Apple A9",
+        "model": "iPhone8,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 6s Plus",
+        "size": 5.5,
+        "resolution": "1920*1080",
+        "RAM": "2GB",
+        "CPU": "Apple A9",
+        "model": "iPhone8,2",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad mini 4",
+        "size": 7.9,
+        "resolution": "2048*1536",
+        "RAM": "2GB",
+        "CPU": "Apple A8",
+        "model": "iPad5,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad Pro",
+        "size": 12.9,
+        "resolution": "2732*2048",
+        "RAM": "4GB",
+        "CPU": "Apple A9X",
+        "model": "iPad6,7",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad Pro 9.7",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "2GB",
+        "CPU": "Apple A9X",
+        "model": "iPad6,3",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPod touch 6",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "1GB",
+        "CPU": "Apple A8",
+        "model": "iPod7,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone SE",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "2GB",
+        "CPU": "Apple A9",
+        "model": "iPhone8,4",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 7",
+        "size": 4.7,
+        "resolution": "1334*750",
+        "RAM": "2GB",
+        "CPU": "Apple A10",
+        "model": "iPhone9,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 7 Plus",
+        "size": 5.5,
+        "resolution": "1920*1080",
+        "RAM": "3GB",
+        "CPU": "Apple A10",
+        "model": "iPhone9,2",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad 9.7",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "2GB",
+        "CPU": "Apple A9",
+        "model": "iPad6,11",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad Pro 10.5",
+        "size": 10.5,
+        "resolution": "2224*1668",
+        "RAM": "4GB",
+        "CPU": "Apple A10X",
+        "model": "iPad7,3",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad Pro 2",
+        "size": 12.9,
+        "resolution": "2732*2048",
+        "RAM": "4GB",
+        "CPU": "Apple A10X",
+        "model": "iPad7,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 8",
+        "size": 4.7,
+        "resolution": "1334*750",
+        "RAM": "2GB",
+        "CPU": "Apple A11",
+        "model": "iPhone10,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 8 Plus",
+        "size": 5.5,
+        "resolution": "1920*1080",
+        "RAM": "3GB",
+        "CPU": "Apple A11",
+        "model": "iPhone10,2",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone X",
+        "size": 5.8,
+        "resolution": "2436*1125",
+        "RAM": "3GB",
+        "CPU": "Apple A11",
+        "model": "iPhone10,3",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPad 2018版",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "2GB",
+        "CPU": "Apple A10",
+        "model": "iPad7,5",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad 4",
+        "size": 9.7,
+        "resolution": "2048*1536",
+        "RAM": "1GB",
+        "CPU": "Apple A6X",
+        "model": "iPad3,6",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad mini",
+        "size": 7.9,
+        "resolution": "1024*768",
+        "RAM": "512MB",
+        "CPU": "Apple A5",
+        "model": "iPad2,5",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad 2",
+        "size": 9.7,
+        "resolution": "1024*768",
+        "RAM": "512MB",
+        "CPU": "Apple A5",
+        "model": "iPad2,1",
+        "OpenGl ES": 2,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone XS",
+        "size": 5.8,
+        "resolution": "2436*1125",
+        "RAM": "4GB",
+        "CPU": "Apple A12",
+        "model": "iPhone11,2",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPhone XS Max",
+        "size": 6.5,
+        "resolution": "2688*1242",
+        "RAM": "4GB",
+        "CPU": "Apple A12",
+        "model": "iPhone11,6",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPhone XR",
+        "size": 6.1,
+        "resolution": "1792*828",
+        "RAM": "3GB",
+        "CPU": "Apple A12",
+        "model": "iPhone11,8",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPad Pro 2018 11寸",
+        "size": 11,
+        "resolution": "2388*1668",
+        "RAM": "4GB",
+        "CPU": "Apple A12X",
+        "model": "iPad8,1",
+        "OpenGl ES": 3,
+        "screen": "全面屏"
+    },
+    {
+        "name": "iPad Pro 2018 12.9寸",
+        "size": 12.9,
+        "resolution": "2732*2048",
+        "RAM": "4GB",
+        "CPU": "Apple A12X",
+        "model": "iPad8,5",
+        "OpenGl ES": 3,
+        "screen": "全面屏"
+    },
+    {
+        "name": "iPad Air 2019",
+        "size": 10.5,
+        "resolution": "2224*1668",
+        "RAM": "3GB",
+        "CPU": "Apple A12",
+        "model": "iPad11,3",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPad mini 2019",
+        "size": 7.9,
+        "resolution": "2048*1536",
+        "RAM": "3GB",
+        "CPU": "Apple A12",
+        "model": "iPad11,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPod touch 2019",
+        "size": 4,
+        "resolution": "1136*640",
+        "RAM": "2GB",
+        "CPU": "Apple A10",
+        "model": "iPod9,1",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 11",
+        "size": 6.1,
+        "resolution": "1792*828",
+        "RAM": "4GB",
+        "CPU": "Apple A13",
+        "model": "iPhone12,1",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPhone 11 Pro",
+        "size": 5.8,
+        "resolution": "2436*1125",
+        "RAM": "4GB",
+        "CPU": "Apple A13",
+        "model": "iPhone12,3",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPhone 11 Pro Max",
+        "size": 6.5,
+        "resolution": "2688*1242",
+        "RAM": "4GB",
+        "CPU": "Apple A13",
+        "model": "iPhone12,5",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPad 2019",
+        "size": 10.2,
+        "resolution": "2160*1620",
+        "RAM": "3GB",
+        "CPU": "Apple A10",
+        "model": "iPad7,11",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone 8 Plus",
+        "size": 5.5,
+        "resolution": "1920*1080",
+        "RAM": "3GB",
+        "CPU": "Apple A11",
+        "model": "iPhone10,5",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    },
+    {
+        "name": "iPhone X",
+        "size": 5.8,
+        "resolution": "2436*1125",
+        "RAM": "3GB",
+        "CPU": "Apple A11",
+        "model": "iPhone10,6",
+        "OpenGl ES": 3,
+        "screen": "刘海屏"
+    },
+    {
+        "name": "iPad Pro 2020 11寸",
+        "size": 11,
+        "resolution": "2388*1668",
+        "RAM": "6GB",
+        "CPU": "Apple A12Z",
+        "model": "iPad8,9",
+        "OpenGl ES": 3,
+        "screen": "全面屏"
+    },
+    {
+        "name": "iPad Pro 2020 12.9寸",
+        "size": 12.9,
+        "resolution": "2732*2048",
+        "RAM": "6GB",
+        "CPU": "Apple A12Z",
+        "model": "iPad8,11",
+        "OpenGl ES": 3,
+        "screen": "全面屏"
+    },
+    {
+        "name": "iPhone SE 2020",
+        "size": 4.7,
+        "resolution": "1334*750",
+        "RAM": "3GB",
+        "CPU": "Apple A13",
+        "model": "iPhone12,8",
+        "OpenGl ES": 3,
+        "screen": "普通屏"
+    }
+]}
