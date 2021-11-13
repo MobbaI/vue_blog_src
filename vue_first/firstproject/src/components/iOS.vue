@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <el-main>
     <!-- <el-col :span="3"> -->
     <el-select v-model="value" clearable placeholder="请选择">
       <el-option
@@ -18,7 +18,7 @@
       style="margin-left: 10px"
     ></el-button> -->
     <!-- </el-col> -->
-    <el-table :data="tableData" height="100vh">
+    <el-table :data="tableData">
       <el-table-column prop="p_name" label="设备名称" width="170">
       </el-table-column>
       <el-table-column prop="size" label="屏幕尺寸(英寸)" width="120">
@@ -34,7 +34,7 @@
       </el-table-column>
       <el-table-column prop="screen" label="屏幕属性"> </el-table-column>
     </el-table>
-  </div>
+  </el-main>
 </template>
 
 <script>
@@ -107,8 +107,12 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .el-input {
   width: 200px;
+}
+
+.container {
+  height: 100vm;
 }
 </style>

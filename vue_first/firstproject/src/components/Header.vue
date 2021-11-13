@@ -18,10 +18,9 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .el-header {
-  background-color: #93d4d6;
-  color: #333;
+  background-color: black;
   line-height: 60px;
 }
 

@@ -1,13 +1,11 @@
 <template>
   <div id="app">
-    <el-container direction="vertical" style="height: 500px; border: 1px solid #eee">
+    <el-container direction="vertical">
       <Header />
       <el-container class="th_container">
         <Aside />
-        <el-main>
-          <router-view></router-view>
-          <!-- <Android :tableData="tableData" /> -->
-        </el-main>
+        <keep-alive><router-view></router-view></keep-alive>
+        <!-- <Android :tableData="tableData" /> -->
       </el-container>
     </el-container>
   </div>
@@ -21,6 +19,9 @@ import Aside from "./components/Aside.vue";
 export default {
   name: "App",
   components: { Header, Aside },
+  mounted() {
+      this.$store.dispatch('getFilmInfo')
+  }
 };
 </script>
 
@@ -35,11 +36,16 @@ export default {
   color: #333;
 }
 
-#app {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+html,
+body,
+#app,
+.el-container {
+  padding: 0;
+  margin: 0;
   height: 100%;
+}
+
+.th_container {
+  height: calc(100% - 60px);
 }
 </style>
